@@ -1,0 +1,22 @@
+{
+    "name": "blackpink",
+    "displayName": "blackpink",
+    "description": "A black and pink extra gay theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black and Pink",
+                "uiTheme": "hc-black",
+                "path": "./themes/Black and Pink-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "hannahhoward"
+}
