@@ -18,5 +18,10 @@
             }
         ]
     },
-    "publisher": "hannahhoward"
+    "homepage": "https://github.com/hannahhoward/blackpink",
+    "publisher": "hannahhoward",
+    "repository": {
+        "type" : "git",
+        "url": "https://github.com/hannahhoward/blackpink.git"
+    }
 }
